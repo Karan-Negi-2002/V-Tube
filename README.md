@@ -39,8 +39,8 @@ Vtube is a feature-rich YouTube clone built using **React**, **Redux Toolkit**, 
 2. Install dependencies:
    ```sh
    npm install
-3. Set up Firebase:
-   Create a Firebase project on the Firebase Console.
+3. Set up Firebase: <br>
+   Create a Firebase project on the Firebase Console. <br>
    Create a Firebase project and add your configuration in src/firebase.js.
 4. Run the app:
    ```sh
