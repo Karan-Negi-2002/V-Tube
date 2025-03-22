@@ -1,0 +1,43 @@
+
+
+body {
+  overflow: auto;
+}
+
+.custom-scroll {
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.custom-scroll::-webkit-scrollbar {
+  display: none; 
+}
+
+.custom-scroll-y {
+  overflow-y: auto;
+  scrollbar-width: none; 
+ 
+}
+
+.custom-scroll-y::-webkit-scrollbar {
+  display: none; 
+}
+
+
+body.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+
+.dark .element {
+  background-color: #333;
+  color: #ffffff;
+}
+
+
+.dark button {
+  background-color: #444;
+  color: #ffffff;
+}
+
