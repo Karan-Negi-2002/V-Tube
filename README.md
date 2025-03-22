@@ -3,7 +3,7 @@
 Vtube is a feature-rich YouTube clone built using **React**, **Redux Toolkit**, **Tailwind CSS**, and **Firebase**. It offers a seamless video browsing experience with advanced features like user authentication, dark mode, search functionality, and more.  
 
 ## **Live Demo**  
-🔗 **[Explore Vtube Live]([https://clone-d9be0.web.app])**  
+🔗 **[Explore Vtube Live](https://clone-d9be0.web.app)**  
 
 ---
 
